@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/thaydizero">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thaydizero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaydizero&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thaydizero&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaydizero&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thay-HTML" height="35" width="80" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
