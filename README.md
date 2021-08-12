@@ -1,6 +1,6 @@
 ## Oiii! Me chamo Thais Dizero
-#### Sou formada em Analise e Desenvolvimento de sistemas deste 2018
-#### Atualmente trabalho como Dev JR FullStack
+<h5> Sou formada em Analise e Desenvolvimento de sistemas deste 2018. Atualmente trabalho como Dev JR FullStack</h>
+<br><br><br><br>
 
 
  <div>
