@@ -1,5 +1,5 @@
 ## Oiii! Me chamo Thais Dizero
-<h5> Sou formada em Analise e Desenvolvimento de sistemas deste 2018. Atualmente trabalho como Dev JR FullStack</h>
+<h5> Profissional de TI atuando com Desenvolvimento Fullstack em Projeto da Porto Seguro, que visa implementar funcionalidades sistêmicas na plataforma Itaú.</h>
 <br><br><br>
 
  <div>
