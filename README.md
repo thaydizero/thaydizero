@@ -1,7 +1,3 @@
-## Oiii! Me chamo Thais Dizero
-<h5> Profissional de TI atuando com Desenvolvimento Fullstack em Projeto da Porto Seguro, que visa implementar funcionalidades sistêmicas na plataforma Itaú.</h>
-<br><br><br>
-
  <div>
   <a href="https://github.com/thaydizero">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thaydizero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
