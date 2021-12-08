@@ -11,8 +11,6 @@
   <img align="center" alt="Thay-JAVA" height="35" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Thay-POSTSQL" height="35" width="140" src="https://img.shields.io/badge/PostgreSQL-0095D5?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Thay-MYSQL" height="35" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Thay-GitLab" height="35" width="120" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img align="center" alt="Thay-Jira" height="35" width="90" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
   
 <br>
