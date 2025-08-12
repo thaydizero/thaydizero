@@ -1,5 +1,5 @@
 <!-- Banner ou imagem de capa -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:ff2079&height=200&section=header&text=Oi,%20eu%20sou%20Thais%20Dizero,%20mas%20pode%20me%20chamar%20de%20Thay&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c0c0c0,100:1e90ff&height=200&section=header&text=Oi,%20eu%20sou%20Thais%20Dizero,%20mas%20pode%20me%20chamar%20de%20Thay&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 ## 💡 Sobre mim  
 Sou desenvolvedora frontend apaixonada por criar interfaces limpas, responsivas e funcionais.  
@@ -31,4 +31,4 @@ Atualmente focada em **React**, **JavaScript** e **CSS**, sempre explorando nova
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tdgobis@gmail.com)
 
 <!-- Rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:ff2079&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c0c0c0,100:1e90ff&height=120&section=footer"/>
