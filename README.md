@@ -27,9 +27,8 @@ Atualmente focada em **React**, **JavaScript** e **CSS**, sempre explorando nova
 ---
 
 ## 🌐 Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-ff2079?style=flat&logo=about.me&logoColor=white)](https://seuportfolio.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-dizero/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tdgobis@gmail.com)
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:ff2079&height=120&section=footer"/>
