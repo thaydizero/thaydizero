@@ -1,20 +1,35 @@
+<!-- Banner ou imagem de capa -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:ff2079&height=200&section=header&text=Oi,%20eu%20sou%20Thais%20Dizero,%20mas%20pode%20me%20chamar%20de%20Thay&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Thay-HTML" height="35" width="80" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Thay-CSS" height="35" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Thay-Bootstrap" height="35" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt="Thay-JAVA" height="35" width="80" src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" alt="Thay-POSTSQL" height="35" width="140" src="https://img.shields.io/badge/PostgreSQL-0095D5?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="Thay-MYSQL" height="35" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+## 💡 Sobre mim  
+Sou desenvolvedora frontend apaixonada por criar interfaces limpas, responsivas e funcionais.  
+Atualmente focada em **React**, **JavaScript** e **CSS**, sempre explorando novas tecnologias para evoluir meus projetos.  
+
+- 🎯 Objetivo: Tornar-me referência em desenvolvimento frontend  
+- 📚 Sempre estudando: UX/UI, boas práticas e performance web  
+- 🚀 Buscando colaborar em projetos open-source  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,figma,git,github" />
 </div>
-<div> 
-<br>
-<img align="center" alt="Thay-Kotlin" height="35" width="120" src="https://img.shields.io/badge/KOTLIN-483D8B?style=for-the-badge&logo=kotlin&logoColor=white">
-<img align="center" alt="Thay-AWS" height="35" width="75" src="https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=aws&logoColor=white">
+
+---
+
+## 📊 Estatísticas no GitHub
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaydizero&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaydizero&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
-<br><br>
-<div target="_blank"> 
-<a href="https://www.instagram.com/thaydizero/" ><img src="https://img.shields.io/badge/-Instagram-DD0031?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thais-dizero/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+---
+
+## 🌐 Onde me encontrar
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-ff2079?style=flat&logo=about.me&logoColor=white)](https://seuportfolio.com)
+
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:ff2079&height=120&section=footer"/>
