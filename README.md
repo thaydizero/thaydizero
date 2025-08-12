@@ -1,8 +1,4 @@
-<div>
-   <a href="https://github.com/thaydizero">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaydizero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaydizero&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Thay-HTML" height="35" width="80" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="Thay-CSS" height="35" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
